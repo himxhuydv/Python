@@ -1,5 +1,5 @@
 #  method of dictonries 
-#  empty dict
+#   empty dict
 # d={}
 
 #  dict
