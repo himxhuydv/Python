@@ -1,3 +1,5 @@
+#  --------------------basically a simple way to explain u that how does the function will act ------
+#    Starting with the geometric mean normal how we will execute 
 a=24
 b=24
 gm=(a*b)**0.5 # logic 
@@ -19,6 +21,11 @@ gm=(c*d)**(1/2)# logic
 print(gm)
 # that why we use the function  
 #              function with argument given like only find 2 variable ------what about n number of argument or n number of element 
+
+
+
+#                          ----   Now with function    ----
+
 
 def gm(a,b): #always right argument in parenthesis and the after passing argument alays pass : and then indentation 
     gm=(a*b)**(1/2)
