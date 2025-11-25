@@ -22,3 +22,7 @@ print(function_name(Cube,6))
 def fucntion_name(o,y):
     return 6+o(y)
 print(fucntion_name(lambda x:x+2,8))
+
+## we can use lambda function for the representation of the argument.
+mul=lambda x,y:print(f"{x}*{y}={x*y}") # why only {x*y} in together because python print exact variable{which is passed inside of it} but we if we do some calculatioon of it print the value after doing some calculation.
+print(mul(2,5))

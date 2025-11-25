@@ -32,3 +32,6 @@ Answer:when you have to write only the single line of expresion
     ```return 6+f(values)```
 ``print(function_name(Cube,6))`` *here we are using the argument as the one of the lambda function.(cube)*
 **So,this is what i am talking about we are using the lambda function as an argument**
+
+**We,can use the lambda function for the print statement or for representation of the of the argument to.**
+```lambda x,y:print(f"{x}*{y}={x*y}")``` here we are representing the calculation how x*y=xy so lambda can do this also 
